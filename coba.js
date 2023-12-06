@@ -10,6 +10,6 @@ export const options = {
 };
 
 export default function () {
-  http.get('https://jti.polinema.ac.id/');
+  http.get('https://www.polinema.ac.id/');
   sleep(1);
 }
